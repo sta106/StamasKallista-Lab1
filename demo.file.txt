@@ -1,1 +1,2 @@
 ‘Hello, CS370’
+Class
